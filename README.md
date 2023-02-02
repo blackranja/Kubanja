@@ -1,2 +1,2 @@
 # Kubanja
-A MEARN Chat Application
+A MERN Multi-Vendor Shopping Application
